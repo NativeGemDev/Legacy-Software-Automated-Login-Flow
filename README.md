@@ -4,6 +4,8 @@
 
 This project is designed to help users understand how to initiate the web GUI interface for their desktop automation flows, specifically targeting legacy software systems. By automating the login process, this project enables users to seamlessly begin their workflows in any legacy desktop environment, allowing them to focus on subsequent automation steps.
 
+![Project Screenshot](https://github.com/NativeGemDev/Legacy-Software-Automated-Login-Flow/blob/main/Screenshot%202024-08-23%20002138.png?raw=true)
+
 ## Project Details
 
 ### Objective
